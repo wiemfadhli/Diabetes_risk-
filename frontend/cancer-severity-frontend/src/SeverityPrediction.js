@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import './SeverityPrediction.css'; // Make sure you create this CSS file
-
+import './SeverityPrediction.css'; 
 const SeverityPrediction = () => {
   const [data, setData] = useState({
     geneticRisk: 0,
