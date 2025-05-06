@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/12de993194db41c89c1a44d26cb874a5/artifacts
+deleted_time: 1746383407431
+end_time: 1746383221823
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: deleted
+run_id: 12de993194db41c89c1a44d26cb874a5
+run_name: clumsy-loon-760
+run_uuid: 12de993194db41c89c1a44d26cb874a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746383208609
+status: 3
+tags: []
+user_id: wiemf

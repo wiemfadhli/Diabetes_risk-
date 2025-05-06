@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/d7200be5b4b847d5b7561d2adc32e464/artifacts
+deleted_time: 1746383407443
+end_time: 1746197703277
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: deleted
+run_id: d7200be5b4b847d5b7561d2adc32e464
+run_name: casual-hog-428
+run_uuid: d7200be5b4b847d5b7561d2adc32e464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746197689255
+status: 3
+tags: []
+user_id: wiemf

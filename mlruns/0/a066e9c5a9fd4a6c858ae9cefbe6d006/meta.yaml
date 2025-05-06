@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/0/a066e9c5a9fd4a6c858ae9cefbe6d006/artifacts
+deleted_time: 1746196755114
+end_time: 1746183500688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a066e9c5a9fd4a6c858ae9cefbe6d006
+run_name: debonair-ram-271
+run_uuid: a066e9c5a9fd4a6c858ae9cefbe6d006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746183488558
+status: 3
+tags: []
+user_id: wiemf

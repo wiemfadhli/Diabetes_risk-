@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/14348546874347aaa34f7437034f8682/artifacts
+end_time: 1746384186154
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: active
+run_id: 14348546874347aaa34f7437034f8682
+run_name: dashing-slug-839
+run_uuid: 14348546874347aaa34f7437034f8682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746384174057
+status: 3
+tags: []
+user_id: wiemf

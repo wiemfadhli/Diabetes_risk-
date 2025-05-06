@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/ab9713950ddb472fb80702fc51bb671b/artifacts
+deleted_time: 1746383407440
+end_time: 1746383052800
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: deleted
+run_id: ab9713950ddb472fb80702fc51bb671b
+run_name: melodic-crane-801
+run_uuid: ab9713950ddb472fb80702fc51bb671b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746383038940
+status: 3
+tags: []
+user_id: wiemf

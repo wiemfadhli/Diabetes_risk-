@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/b071cf6699674cd8a05a1459cc0ad901/artifacts
+deleted_time: 1746384161259
+end_time: 1746383459974
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: deleted
+run_id: b071cf6699674cd8a05a1459cc0ad901
+run_name: industrious-koi-188
+run_uuid: b071cf6699674cd8a05a1459cc0ad901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746383446500
+status: 3
+tags: []
+user_id: wiemf

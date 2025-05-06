@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/fad1f6401a3143288896c55268a9933a/artifacts
+deleted_time: 1746197024958
+end_time: 1746196791777
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: deleted
+run_id: fad1f6401a3143288896c55268a9933a
+run_name: gentle-grouse-53
+run_uuid: fad1f6401a3143288896c55268a9933a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746196789036
+status: 4
+tags: []
+user_id: wiemf

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/9572913b66c14e5d89537f792fdf0abc/artifacts
+deleted_time: 1746197759924
+end_time: 1746196962709
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: deleted
+run_id: 9572913b66c14e5d89537f792fdf0abc
+run_name: capricious-foal-847
+run_uuid: 9572913b66c14e5d89537f792fdf0abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746196949112
+status: 3
+tags: []
+user_id: wiemf

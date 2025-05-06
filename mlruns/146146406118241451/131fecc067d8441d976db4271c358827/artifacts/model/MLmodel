@@ -1,0 +1,40 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 4058906
+model_uuid: ac0e3a6845f2483c9a93138df0cebeb0
+prompts: null
+run_id: 131fecc067d8441d976db4271c358827
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "Age", "required": true}, {"type": "string",
+    "name": "Gender", "required": true}, {"type": "string", "name": "Country_Region",
+    "required": true}, {"type": "double", "name": "Genetic_Risk", "required": true},
+    {"type": "double", "name": "Air_Pollution", "required": true}, {"type": "double",
+    "name": "Alcohol_Use", "required": true}, {"type": "double", "name": "Smoking",
+    "required": true}, {"type": "double", "name": "Obesity_Level", "required": true},
+    {"type": "string", "name": "Cancer_Type", "required": true}, {"type": "string",
+    "name": "Cancer_Stage", "required": true}, {"type": "double", "name": "Treatment_Cost_USD",
+    "required": true}, {"type": "double", "name": "Survival_Years", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-04 18:47:13.978518'

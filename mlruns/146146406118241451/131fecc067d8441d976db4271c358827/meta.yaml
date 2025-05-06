@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/131fecc067d8441d976db4271c358827/artifacts
+end_time: 1746384442250
+entry_point_name: ''
+experiment_id: '146146406118241451'
+lifecycle_stage: active
+run_id: 131fecc067d8441d976db4271c358827
+run_name: nosy-slug-422
+run_uuid: 131fecc067d8441d976db4271c358827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746384399443
+status: 3
+tags: []
+user_id: wiemf
