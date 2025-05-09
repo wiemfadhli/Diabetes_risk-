@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746718751705
+current_stage: Production
+description: null
+last_updated_timestamp: 1746718751743
+name: Cancer_Severity_Model
+run_id: ce9c48874ced4fa2a8dcebe1f39ed1bc
+run_link: null
+source: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/ce9c48874ced4fa2a8dcebe1f39ed1bc/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/wiemf/OneDrive/Bureau/Diabetes_risk/mlruns/146146406118241451/ce9c48874ced4fa2a8dcebe1f39ed1bc/artifacts/model
+user_id: null
+version: 1
