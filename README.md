@@ -1,8 +1,8 @@
-## 🧠 Cancer Severity Prediction – End-to-End MLOps Project
+##  Cancer Severity Prediction – End-to-End MLOps Project
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This project is a complete end-to-end Machine Learning system designed to predict cancer severity levels based on patient data.
 
@@ -30,7 +30,7 @@ It demonstrates a full MLOps workflow including:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Predict cancer severity into 3 classes:
 
@@ -47,16 +47,16 @@ Using features such as:
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
 Data → Preprocessing → Feature Engineering → Model Training → MLflow Tracking → Flask API → React Frontend → Docker Deployment
 
  
  
-## 📊 Machine Learning Pipeline
+##  Machine Learning Pipeline
 
-### 🔹 Data Processing
+###  Data Processing
 - Missing value handling (SimpleImputer)  
 - Feature scaling (StandardScaler)  
 - Categorical encoding (OneHotEncoder)  
@@ -73,7 +73,7 @@ Data → Preprocessing → Feature Engineering → Model Training → MLflow Tra
 
 ---
 
-## 📈 MLflow Tracking
+##  MLflow Tracking
 
 All experiments are tracked using MLflow for reproducibility and experiment management.
 
@@ -84,11 +84,11 @@ All experiments are tracked using MLflow for reproducibility and experiment mana
 - Confusion matrix artifact  
 - Saved trained model  
 
-🔬 Experiment Name: Cancer_Severity_Experiment  
+ Experiment Name: Cancer_Severity_Experiment  
 
 ---
 
-## 🌐 Flask API (Model Serving)
+##  Flask API (Model Serving)
 
 The trained model is deployed using a Flask REST API for real-time predictions.
 
@@ -112,7 +112,7 @@ POST /predict
 
 ---
 
-## 💻 React Frontend
+##  React Frontend
 
 The frontend provides a simple interface to:
 - Input patient data  
@@ -121,18 +121,18 @@ The frontend provides a simple interface to:
 
 ---
 
-## 🐳 Docker Setup
+##  Docker Setup
 
-📦 Services:
+ Services:
 - Flask Backend (ML API)  
 - React Frontend  
 
-▶️ Run Project:
+Run Project:
 docker-compose up --build  
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 project/
 │
@@ -157,7 +157,7 @@ project/
 
 ---
 
-## 📊 Results
+##  Results
 
 - High accuracy achieved using Random Forest / Decision Tree  
 - Full MLflow experiment tracking  
@@ -166,7 +166,7 @@ project/
 
 ---
 
-## 💡 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 ✔ Machine Learning Engineering  
 ✔ MLOps (MLflow, Experiment Tracking)  
